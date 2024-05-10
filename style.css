@@ -1,0 +1,68 @@
+.header{
+    background-color: #1F2937;
+    /* display: flex; */
+    /* flex-wrap: nowrap; */
+    /* border: solid greenyellow 5px; */
+    /* flex-direction: column; */
+    /* justify-content: space-around; */
+}
+
+.header.logo{
+    display: flex;
+    border: solid 2px red;
+    /* width: 100px;
+    height: 100px; */
+    /* flex: 0; */
+    /* justify-content: space-between; */
+    /* gap:25px;
+    align-self: flex-start; */
+
+}
+.header.links{
+    border: solid purple 3px;
+    /* display: flex;
+    justify-content: flex-end; */
+}
+
+.hero{
+    /* display: flex; */
+    border: solid white 2px;
+    /* flex-wrap: wrap; */
+}
+
+.hero_text{
+    display: flex;
+    /* align-items: center; */
+}
+
+.hero img{
+    width: 100px;
+    height: 100px;
+    border: solid pink 2px;
+}
+
+.testimonial-images{
+    border: solid blue 2px;
+    display: flex;
+}
+
+.inspirational{
+    display: flex;
+    border: solid purple 2px;
+    background-color: #E5E7EB;
+}
+
+.action{
+    border: solid 2px red;
+    display:flex;
+    background-color: #3882F6;
+}
+
+.footer{
+    border: solid 2px green;
+    display: flex;
+}
+.selfies{
+    display: flex;
+    border: solid 2px yellowgreen;
+}
